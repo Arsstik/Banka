@@ -8,19 +8,24 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Arsstik\\.nuget\\packages\\": {}
+    "C:\\Users\\gasta\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arsstik\\Documents\\GitHub\\Banka\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\gasta\\Desktop\\ПП\\Banka\\Test\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\Arsstik\\Documents\\GitHub\\Banka\\Test\\Test\\Test.csproj",
-      "packagesPath": "C:\\Users\\Arsstik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arsstik\\Documents\\GitHub\\Banka\\Test\\Test\\obj\\",
+      "projectPath": "C:\\Users\\gasta\\Desktop\\ПП\\Banka\\Test\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\gasta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gasta\\Desktop\\ПП\\Banka\\Test\\Test\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Arsstik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gasta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
